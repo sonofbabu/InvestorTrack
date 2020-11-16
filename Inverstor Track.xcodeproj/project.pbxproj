@@ -22,6 +22,7 @@
 		1C1F95432562AAB40072143B /* TrendingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1F95422562AAB40072143B /* TrendingViewController.swift */; };
 		1C1F95462562AACD0072143B /* TrendingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1F95442562AACD0072143B /* TrendingTableViewCell.swift */; };
 		1C1F95472562AACD0072143B /* TrendingTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C1F95452562AACD0072143B /* TrendingTableViewCell.xib */; };
+		1C1F95492562EB1B0072143B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1F95482562EB1B0072143B /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		1C1F95422562AAB40072143B /* TrendingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendingViewController.swift; sourceTree = "<group>"; };
 		1C1F95442562AACD0072143B /* TrendingTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendingTableViewCell.swift; sourceTree = "<group>"; };
 		1C1F95452562AACD0072143B /* TrendingTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TrendingTableViewCell.xib; sourceTree = "<group>"; };
+		1C1F95482562EB1B0072143B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +160,7 @@
 			isa = PBXGroup;
 			children = (
 				1C1F95352562A4950072143B /* HomeViewController.swift */,
+				1C1F95482562EB1B0072143B /* ViewController.swift */,
 			);
 			path = "Main VC";
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				1C1F95362562A4950072143B /* HomeViewController.swift in Sources */,
 				1C1F95332562A4600072143B /* CategoryViewController.swift in Sources */,
 				1C1F95402562A7E50072143B /* ThemesViewController.swift in Sources */,
+				1C1F95492562EB1B0072143B /* ViewController.swift in Sources */,
 				1C1F95462562AACD0072143B /* TrendingTableViewCell.swift in Sources */,
 				1C1F95022562A39F0072143B /* AppDelegate.swift in Sources */,
 				1C1F95042562A39F0072143B /* SceneDelegate.swift in Sources */,
